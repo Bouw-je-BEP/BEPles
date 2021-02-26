@@ -1,20 +1,10 @@
 {
     "name": "BEPles",
-    "version": "0.0.1",
-    "description": "",
+    "description": "Syntaxisfout in pxt.json",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
         "microphone": "*"
     },
-    "files": [
-        "main.ts",
-        "README.md",
-        "BEPles.md"
-    ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "files": [],
     "supportedTargets": [
         "microbit"
     ],
